@@ -7,4 +7,7 @@ Currently, I’m:
 
 I’m always eager to collaborate, contribute to open-source, and explore new challenge
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=7KhushiTyagi)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
