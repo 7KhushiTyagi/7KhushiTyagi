@@ -1,21 +1,116 @@
-## Hi there! 👋  
-I’m a passionate **Computer Science student** and **developer** 
+# Hey, I'm Khushi Tyagi 
 
-Currently, I’m:  
--Working on exciting projects that focus on **Flutter** and **mobile app development**  
--Continuously improving my skills in **Data Structures & Algorithms (DSA)** 
+### Computer Science Student | Software Engineer | Backend & Full-Stack Developer
 
-I’m always eager to collaborate, contribute to open-source, and explore new challenge
+I'm a Computer Science student at **VIT Vellore** with a strong interest in **Software Engineering, Backend Development, and scalable systems**.
 
+I enjoy turning ideas into working software — from **production mobile applications and backend services** to **database-driven systems and API integrations**. Alongside development, I regularly practice **Data Structures & Algorithms in C++** and enjoy understanding how systems work under the hood.
 
-<p align="left">
+---
+
+##  About Me
+
+*  Computer Science student at **VIT Vellore**
+*  Strong foundation in **C++ and Data Structures & Algorithms**
+*  Interested in **Software Engineering, Backend Development & System Design**
+*  Experience building applications with **TypeScript, Node.js, Express.js, Flutter and Java**
+*  Comfortable working with **PostgreSQL, MongoDB, Redis, Firebase and SQL**
+*  Familiar with **AWS, Docker, Git and cloud-based development**
+*  Experience integrating **REST APIs, authentication, payments, search and third-party services**
+*  Experience developing and shipping **cross-platform mobile applications**
+*  Currently strengthening my skills in **DSA, scalable backend systems and system design**
+
+---
+
+##  Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,dart,sql" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,firebase,prisma" />
+</p>
+
+### Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,html,css" />
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman" />
+</p>
+
+---
+
+##  Featured Work
+
+###  HimGo — Drone Delivery E-Commerce Backend
+
+A backend-focused e-commerce system built with **TypeScript, Medusa, PostgreSQL, Redis, Stripe and Algolia**.
+
+Worked with backend workflows involving:
+
+* REST APIs and service-layer architecture
+* PostgreSQL data management
+* Redis caching
+* Authentication and transactional workflows
+* Stripe payment integration
+* Algolia-powered search
+* Modular backend services
+
+---
+
+###  Production Mobile Applications
+
+Through software development internships, I've worked on **cross-platform Flutter applications** and contributed to production releases.
+
+My work has involved:
+
+* Building and refining mobile UI
+* REST API integration
+* Authentication and user workflows
+* Firebase services
+* State management
+* Reusable components
+* Testing, debugging and release cycles
+
+---
+
+##  Problem Solving
+
+I regularly practice **Data Structures & Algorithms**, primarily using C++.
+
+
+
+---
+
+##  Currently Learning
+
+```text
+Data Structures & Algorithms
+        ↓
+Backend Engineering
+        ↓
+System Design
+        ↓
+Scalable & Distributed Systems
+        ↓
+Cloud & Infrastructure
+```
+
+I'm particularly interested in understanding how software evolves from a working application into a **reliable, scalable system**.
+
+---
 
 
 
 
-
-
+I'm always interested in **software engineering, backend systems, problem solving and building useful products**.
